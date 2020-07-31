@@ -1,0 +1,179 @@
+{
+  "categorias": [
+    {
+      "titulo": "Rock",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Se liga nesses clipes irados!"
+      },
+      "videos": [
+        {
+          "titulo": "Se liga nesse clipe, depois tem mais",
+          "url": "https://www.youtube.com/watch?v=34CZjsEI1yU"
+        },
+        {
+          "titulo": "The HU - Yuve Yuve Yu ",
+          "url": "https://www.youtube.com/watch?v=v4xZUr0BEfE"
+        },
+        {
+          "titulo": "Foo Fighters - Monkey Wrench",
+          "url": "https://www.youtube.com/watch?v=I7rCNiiNPxA"
+        },
+        {
+          "titulo": "Massacration - Metal is the Law",
+          "url": "https://www.youtube.com/watch?v=TcBYBukjkBY"
+        },
+        {
+          "titulo": "Tenacious D - Tribute ",
+          "url": "https://www.youtube.com/watch?v=_lK4cX5xGiQ"
+        },
+        {
+          "titulo": "BABYMETAL - ギミチョコ！！- Gimme chocolate!!",
+          "url": "https://www.youtube.com/watch?v=WIKqgE4BwAY"
+        },
+        {
+          "titulo": "Black Sabbath- The Wizard",
+          "url": "https://www.youtube.com/watch?v=GKY--qaHWSw"
+        },
+        {
+          "titulo": "Toss A Coin To Your Witcher - METAL COVER",
+          "url": "https://www.youtube.com/watch?v=bS4Q-WWyl3Q"
+        }
+      ]
+    },
+    {
+      "titulo": "Comédia",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Gosta de clipes engraçados? Olha esses"
+      },
+      "videos": [
+        {
+          "titulo": "Tim Minchin...Confessions",
+          "url": "https://www.youtube.com/watch?v=4bEGLbCNRqw"
+        },
+        {
+          "titulo": "Motherlover (feat. Justin Timberlake)",
+          "url": "https://www.youtube.com/watch?v=X0DeIqJm4vM"
+        },
+        {
+          "titulo": "Redfoo - Let's Get Ridiculous",
+          "url": "https://www.youtube.com/watch?v=CdLhdrNgGu4"
+        },
+        {
+          "titulo": "MACKLEMORE & RYAN LEWIS - THRIFT SHOP FEAT. WANZ (OFFICIAL VIDEO)",
+          "url": "https://www.youtube.com/watch?v=QK8mJJJvaes"
+        },
+        {
+          "titulo": "Foo Fighters - Everlong",
+          "url": "https://www.youtube.com/watch?v=eBG7P-K-r1Y"
+        }
+      ]
+    },
+    {
+      "titulo": "Animações",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Gosta de animações? Então pega"
+      },
+      "videos": [
+        {
+          "titulo": "Disney Music - Lava",
+          "url": "https://www.youtube.com/watch?v=uh4dTLJ9q9o"
+        },
+        {
+          "titulo": "Dwayne Johnson - You're Welcome",
+          "url": "https://www.youtube.com/watch?v=79DijItQXMM"
+        },
+        {
+          "titulo": "Kristen Bell, Santino Fontana - Love Is an Open Door",
+          "url": "https://www.youtube.com/watch?v=kQDw88hEr2c"
+        },
+        {
+          "titulo": "Caravan Palace - Lone Digger",
+          "url": "https://www.youtube.com/watch?v=UbQgXeY_zi4&list=PLbQ1KwdM300oUe8SP_Tn7-vWYITvU5N7i"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Monty Python and the Holy Grail",
+          "url": "https://www.youtube.com/watch?v=urRkGvhXc8w"
+        },
+        {
+          "titulo": "Bohemian Rhapsody",
+          "url": "https://www.youtube.com/watch?v=6S9c5nnDd_s"
+        },
+        {
+          "titulo": "Onward",
+          "url": "https://www.youtube.com/watch?v=gn5QmllRCn4"
+        },
+        {
+          "titulo": "V for Vendeta",
+          "url": "https://www.youtube.com/watch?v=lSA7mAHolAw"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Se ainda não jogou está perdendo tempo"
+      },
+      "videos": [
+        {
+          "titulo": "The Elder Scrolls V: Skyrim",
+          "url": "https://www.youtube.com/watch?v=JSRtYpNRoN0"
+        },
+        {
+          "titulo": "The Witcher 3: Wild Hunt",
+          "url": "https://www.youtube.com/watch?v=c0i88t0Kacs"
+        },
+        {
+          "titulo": "Hollow Knight",
+          "url": "https://www.youtube.com/watch?v=UAO2urG23S4"
+        },
+        {
+          "titulo": "Super Smash Bros. Ultimate",
+          "url": "https://www.youtube.com/watch?v=WShCN-AYHqA"
+        },
+        {
+          "titulo": "BattleBlock Theater",
+          "url": "https://www.youtube.com/watch?v=pv1ZoHt6poI"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Séries incríveis que você precisa ver"
+      },
+      "videos": [
+        {
+          "titulo": "Vikings",
+          "url": "https://www.youtube.com/watch?v=1j2sXLbzm9U"
+        },
+        {
+          "titulo": "The Dragon Prince",
+          "url": "https://www.youtube.com/watch?v=PWEtCsi3Eo8"
+        },
+        {
+          "titulo": "Sons of Anarchy",
+          "url": "https://www.youtube.com/watch?v=_03DBXL3Srw"
+        },
+        {
+          "titulo": "Castlevania",
+          "url": "https://www.youtube.com/watch?v=m3jNb7IdJHQ"
+        },
+        {
+          "titulo": "Black Sails",
+          "url": "https://www.youtube.com/watch?v=8aigIJGeykI"
+        }
+      ]
+    }
+  ]
+}
