@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/maikiflixnpm%20install%20--save%20gh-pages/static/css/main.727e89c3.chunk.css",
-    "main.js": "/maikiflixnpm%20install%20--save%20gh-pages/static/js/main.dd96db04.chunk.js",
-    "main.js.map": "/maikiflixnpm%20install%20--save%20gh-pages/static/js/main.dd96db04.chunk.js.map",
-    "runtime-main.js": "/maikiflixnpm%20install%20--save%20gh-pages/static/js/runtime-main.75ae47fe.js",
-    "runtime-main.js.map": "/maikiflixnpm%20install%20--save%20gh-pages/static/js/runtime-main.75ae47fe.js.map",
-    "static/js/2.ae0e043c.chunk.js": "/maikiflixnpm%20install%20--save%20gh-pages/static/js/2.ae0e043c.chunk.js",
-    "static/js/2.ae0e043c.chunk.js.map": "/maikiflixnpm%20install%20--save%20gh-pages/static/js/2.ae0e043c.chunk.js.map",
-    "index.html": "/maikiflixnpm%20install%20--save%20gh-pages/index.html",
-    "precache-manifest.39e09a72323a2ee3c45c4611f29ed95a.js": "/maikiflixnpm%20install%20--save%20gh-pages/precache-manifest.39e09a72323a2ee3c45c4611f29ed95a.js",
-    "service-worker.js": "/maikiflixnpm%20install%20--save%20gh-pages/service-worker.js",
-    "static/css/main.727e89c3.chunk.css.map": "/maikiflixnpm%20install%20--save%20gh-pages/static/css/main.727e89c3.chunk.css.map",
-    "static/js/2.ae0e043c.chunk.js.LICENSE.txt": "/maikiflixnpm%20install%20--save%20gh-pages/static/js/2.ae0e043c.chunk.js.LICENSE.txt",
-    "static/media/Logo.png": "/maikiflixnpm%20install%20--save%20gh-pages/static/media/Logo.c77dd3bd.png"
+    "main.css": "/maikiflix/static/css/main.727e89c3.chunk.css",
+    "main.js": "/maikiflix/static/js/main.dd96db04.chunk.js",
+    "main.js.map": "/maikiflix/static/js/main.dd96db04.chunk.js.map",
+    "runtime-main.js": "/maikiflix/static/js/runtime-main.a8345ab8.js",
+    "runtime-main.js.map": "/maikiflix/static/js/runtime-main.a8345ab8.js.map",
+    "static/js/2.9cdb9608.chunk.js": "/maikiflix/static/js/2.9cdb9608.chunk.js",
+    "static/js/2.9cdb9608.chunk.js.map": "/maikiflix/static/js/2.9cdb9608.chunk.js.map",
+    "index.html": "/maikiflix/index.html",
+    "precache-manifest.6cb3090ca5751fc9e2706a1ee7f02a61.js": "/maikiflix/precache-manifest.6cb3090ca5751fc9e2706a1ee7f02a61.js",
+    "service-worker.js": "/maikiflix/service-worker.js",
+    "static/css/main.727e89c3.chunk.css.map": "/maikiflix/static/css/main.727e89c3.chunk.css.map",
+    "static/js/2.9cdb9608.chunk.js.LICENSE.txt": "/maikiflix/static/js/2.9cdb9608.chunk.js.LICENSE.txt",
+    "static/media/Logo.png": "/maikiflix/static/media/Logo.c77dd3bd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.75ae47fe.js",
-    "static/js/2.ae0e043c.chunk.js",
+    "static/js/runtime-main.a8345ab8.js",
+    "static/js/2.9cdb9608.chunk.js",
     "static/css/main.727e89c3.chunk.css",
     "static/js/main.dd96db04.chunk.js"
   ]
