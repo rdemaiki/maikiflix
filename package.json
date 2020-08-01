@@ -1,6 +1,6 @@
 {
   "name": "maikiflix",
-  "homepage": "https://rdemaiki.github.io/maikiflixnpm install --save gh-pages",
+  "homepage": "https://rdemaiki.github.io/maikiflix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
