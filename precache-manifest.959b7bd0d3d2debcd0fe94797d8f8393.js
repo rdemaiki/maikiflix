@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "91f67d20a59543295bbf2bd37914b446",
+    "revision": "73d1b33c645025de91cb912cec1d48f5",
     "url": "/maikiflix/index.html"
   },
   {

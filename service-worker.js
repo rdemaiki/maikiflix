@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/maikiflix/precache-manifest.6cb3090ca5751fc9e2706a1ee7f02a61.js"
+  "/maikiflix/precache-manifest.959b7bd0d3d2debcd0fe94797d8f8393.js"
 );
 
 self.addEventListener('message', (event) => {
